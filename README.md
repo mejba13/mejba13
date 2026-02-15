@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d33,60:00d4aa,100:00b4d8&height=230&section=header&text=Engr%20Mejba%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=⚡%20AI%20Developer%20%7C%20Software%20Engineer%20%7C%20Cloud%20DevOps%20%7C%20Entrepreneur%20⚡&descSize=17&descAlignY=52&descAlign=50&stroke=00d4aa&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d1117,50:003d33,75:00795c,100:00d4aa&height=230&section=header&text=Engr%20Mejba%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=⚡%20AI%20Developer%20%7C%20Software%20Engineer%20%7C%20Cloud%20DevOps%20%7C%20Entrepreneur%20⚡&descSize=18&descAlignY=54&descAlign=50" width="100%" />
 
 <!-- BADGES ROW -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mejba.me-00d4aa?style=for-the-badge&logoColor=white)](https://www.mejba.me/)
@@ -212,12 +212,14 @@ mission: >
 
 <div align="center">
 
-[![MeetVerse AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=meetverse-ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/meetverse-ai)
-[![BrandFlow AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=brandflow-ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/brandflow-ai)
-[![RevSignal AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=revsignal-ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/revsignal-ai)
-[![PromptPal AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=promptpal.ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/promptpal.ai)
-[![Prompt Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=prompt-marketplace&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/prompt-marketplace)
-[![Vitalyze Web](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=vitalyze-web&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/vitalyze-web)
+| | Repository | Description | Tech |
+|---|---|---|---|
+| 🎥 | [**MeetVerse AI**](https://github.com/mejba13/meetverse-ai) | AI-powered video conferencing with real-time transcription | `Next.js 15` `WebRTC` `TypeScript` |
+| 📢 | [**BrandFlow AI**](https://github.com/mejba13/brandflow-ai) | Social media automation with AI-generated visuals | `Next.js 15` `TypeScript` `Tailwind` |
+| 🎯 | [**RevSignal AI**](https://github.com/mejba13/revsignal-ai) | Predictive revenue intelligence — 94% accuracy | `Next.js 15` `Python ML` `tRPC` |
+| 🤖 | [**PromptPal AI**](https://github.com/mejba13/promptpal.ai) | AI content creation with multi-model support | `TypeScript` `Multi-Model AI` |
+| 🛒 | [**Prompt Marketplace**](https://github.com/mejba13/prompt-marketplace) | Laravel 12 SaaS for discovering & purchasing AI prompts | `PHP` `Laravel 12` `SaaS` |
+| 🌐 | [**Vitalyze Web**](https://github.com/mejba13/vitalyze-web) | Premium marketing website with Framer Motion | `Next.js 15` `TypeScript` `Tailwind` |
 
 </div>
 
@@ -268,7 +270,7 @@ mission: >
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d33,60:00d4aa,100:00b4d8&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d1117,50:003d33,75:00795c,100:00d4aa&height=120&section=footer" width="100%" />
 
 <div align="center">
   <b>💡 "Building the future, one AI-powered solution at a time."</b><br/><br/>
