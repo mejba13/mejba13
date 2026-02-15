@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00b4d8&height=220&section=header&text=Engr%20Mejba%20Ahmed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Software%20Engineer%20%7C%20Cloud%20DevOps%20%7C%20Entrepreneur&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d33,60:00d4aa,100:00b4d8&height=230&section=header&text=Engr%20Mejba%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=⚡%20AI%20Developer%20%7C%20Software%20Engineer%20%7C%20Cloud%20DevOps%20%7C%20Entrepreneur%20⚡&descSize=17&descAlignY=52&descAlign=50&stroke=00d4aa&strokeWidth=1" width="100%" />
 
 <!-- BADGES ROW -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mejba.me-00d4aa?style=for-the-badge&logoColor=white)](https://www.mejba.me/)
@@ -41,19 +41,70 @@ mission: >
 <br/>
 
 <!-- WHAT I'M BUILDING -->
-## 🔥 What I'm Building
+## 🔥 What I'm Building — AI SaaS Portfolio
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎯 [RevSignal AI](https://github.com/mejba13/revsignal-ai)
-**Predictive Revenue Intelligence Platform**
+**Predictive Revenue Intelligence**
 > Transform CRM data into deal predictions, risk alerts & revenue forecasts
 >
-> `Next.js 15` `Python ML` `tRPC` `94% prediction accuracy`
+> `Next.js 15` `Python ML` `tRPC` `94% accuracy`
 
 </td>
+<td width="50%" valign="top">
+
+### 🎥 [MeetVerse AI](https://github.com/mejba13/meetverse-ai)
+**AI-Powered Video Conferencing**
+> Intelligent meeting co-pilot with real-time transcription & smart action items
+>
+> `Next.js 15` `WebRTC` `TypeScript` `AI Services`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Tube2Blog AI](https://github.com/mejba13/tube2blog.ai)
+**YouTube → SEO Blog Posts**
+> Transforms videos into optimized blog posts with auto-scheduling & multi-site management
+>
+> `Next.js` `Hugging Face` `AI Content` `SaaS`
+
+</td>
+<td width="50%" valign="top">
+
+### 📢 [BrandFlow AI](https://github.com/mejba13/brandflow-ai)
+**Social Media Automation**
+> AI-generated visuals, platform-optimized posts, intelligent scheduling & lead magnets
+>
+> `Next.js 15` `TypeScript` `Tailwind CSS 4` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Rendrix](https://github.com/mejba13/rendrix)
+**Multi-Tenant E-Commerce Platform**
+> Create & manage multiple ecommerce stores from a unified dashboard
+>
+> `TypeScript` `Turborepo` `Docker` `106 commits`
+
+</td>
+<td width="50%" valign="top">
+
+### 💚 [Vitalyze App](https://github.com/mejba13/vitalyze-app)
+**AI Health Companion**
+> Track wellness, monitor vitals & get personalized health insights
+>
+> `Flutter` `Dart` `Supabase` `OpenAI` `Firebase`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ VendorShield AI
@@ -61,17 +112,6 @@ mission: >
 > AI-powered vendor risk assessment & compliance monitoring for enterprises
 >
 > `React Native` `FastAPI` `Machine Learning` `SOC2`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 GrabKey AI
-**Game Key Price Intelligence**
-> Aggregates prices from 50+ retailers with AI-driven predictions
->
-> `Next.js` `Python` `Web Scraping` `Price ML Models`
 
 </td>
 <td width="50%" valign="top">
@@ -201,10 +241,14 @@ mission: >
 
 <div align="center">
 
-[![Prompt Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=prompt-marketplace&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/prompt-marketplace)
+[![MeetVerse AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=meetverse-ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/meetverse-ai)
+[![BrandFlow AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=brandflow-ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/brandflow-ai)
+[![Tube2Blog AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=tube2blog.ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/tube2blog.ai)
 [![RevSignal AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=revsignal-ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/revsignal-ai)
+[![Rendrix](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=rendrix&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/rendrix)
+[![Vitalyze App](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=vitalyze-app&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/vitalyze-app)
+[![Prompt Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=prompt-marketplace&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/prompt-marketplace)
 [![PromptPal AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=promptpal.ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/promptpal.ai)
-[![LeetCode 75](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=LeetCode-75-Solutions&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/LeetCode-75-Solutions)
 
 </div>
 
@@ -264,7 +308,7 @@ mission: >
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00b4d8&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d33,60:00d4aa,100:00b4d8&height=120&section=footer" width="100%" />
 
 <div align="center">
   <b>💡 "Building the future, one AI-powered solution at a time."</b><br/><br/>
