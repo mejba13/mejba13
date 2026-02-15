@@ -43,88 +43,53 @@ mission: >
 <!-- WHAT I'M BUILDING -->
 ## 🔥 What I'm Building — AI SaaS Portfolio
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎯 [RevSignal AI](https://github.com/mejba13/revsignal-ai)
-**Predictive Revenue Intelligence**
-> Transform CRM data into deal predictions, risk alerts & revenue forecasts
->
-> `Next.js 15` `Python ML` `tRPC` `94% accuracy`
+### 🎥 [MeetVerse AI](https://github.com/mejba13/meetverse-ai) — AI-Powered Video Conferencing
+> Intelligent meeting co-pilot with real-time transcription & smart action items · `Next.js 15` `WebRTC` `TypeScript`
 
-</td>
-<td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/8277c5f4-3848-4aed-bd2e-ecc2aa0ec36e" width="48%" /> <img src="https://github.com/user-attachments/assets/a2417494-f722-461d-8659-f4cd18164e18" width="48%" />
 
-### 🎥 [MeetVerse AI](https://github.com/mejba13/meetverse-ai)
-**AI-Powered Video Conferencing**
-> Intelligent meeting co-pilot with real-time transcription & smart action items
->
-> `Next.js 15` `WebRTC` `TypeScript` `AI Services`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 📝 [Tube2Blog AI](https://github.com/mejba13/tube2blog.ai) — YouTube → SEO Blog Posts
+> Transforms videos into optimized blog posts with auto-scheduling & multi-site management · `Next.js` `Hugging Face` `AI`
 
-### 📝 [Tube2Blog AI](https://github.com/mejba13/tube2blog.ai)
-**YouTube → SEO Blog Posts**
-> Transforms videos into optimized blog posts with auto-scheduling & multi-site management
->
-> `Next.js` `Hugging Face` `AI Content` `SaaS`
+<img src="https://github.com/user-attachments/assets/354da342-27d7-4d1b-853a-bd09051ade36" width="48%" /> <img src="https://github.com/user-attachments/assets/fd3d55b5-a75f-4a3e-adcd-19353eb995c0" width="48%" />
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 📢 [BrandFlow AI](https://github.com/mejba13/brandflow-ai)
-**Social Media Automation**
-> AI-generated visuals, platform-optimized posts, intelligent scheduling & lead magnets
->
-> `Next.js 15` `TypeScript` `Tailwind CSS 4` `Supabase`
+### 📢 [BrandFlow AI](https://github.com/mejba13/brandflow-ai) — Social Media Automation
+> AI-generated visuals, platform-optimized posts, intelligent scheduling & lead magnets · `Next.js 15` `TypeScript` `Tailwind CSS 4`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/6949dc33-c634-446b-88e0-1e5be1279d8d" width="48%" /> <img src="https://github.com/user-attachments/assets/ae5a6840-783b-4f4e-acdb-45468236f90b" width="48%" />
 
-### 🛒 [Rendrix](https://github.com/mejba13/rendrix)
-**Multi-Tenant E-Commerce Platform**
-> Create & manage multiple ecommerce stores from a unified dashboard
->
-> `TypeScript` `Turborepo` `Docker` `106 commits`
+---
 
-</td>
-<td width="50%" valign="top">
+### 🛒 [Rendrix](https://github.com/mejba13/rendrix) — Multi-Tenant E-Commerce Platform
+> Create & manage multiple ecommerce stores from a unified dashboard · `TypeScript` `Turborepo` `Docker` `106 commits`
 
-### 💚 [Vitalyze App](https://github.com/mejba13/vitalyze-app)
-**AI Health Companion**
-> Track wellness, monitor vitals & get personalized health insights
->
-> `Flutter` `Dart` `Supabase` `OpenAI` `Firebase`
+<img src="https://github.com/user-attachments/assets/d92275e8-024b-41ef-8fe6-cd1c2e530e32" width="48%" /> <img src="https://github.com/user-attachments/assets/036dbd47-a504-41c0-bfea-959bb83c5b81" width="48%" />
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🛡️ VendorShield AI
-**Third-Party Risk Management**
-> AI-powered vendor risk assessment & compliance monitoring for enterprises
->
-> `React Native` `FastAPI` `Machine Learning` `SOC2`
+### 💚 [Vitalyze App](https://github.com/mejba13/vitalyze-app) — AI Health Companion
+> Track wellness, monitor vitals & get personalized health insights · `Flutter` `Dart` `Supabase` `OpenAI`
 
-</td>
-<td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/b21ca2d4-3691-4ad8-806f-6116e087201e" width="48%" /> <img src="https://github.com/user-attachments/assets/6eaa2ef6-758d-4f6a-9030-7ca9271d0bb0" width="48%" />
 
-### 🤖 [PromptPal AI](https://github.com/mejba13/promptpal.ai)
-**AI Content Creation Platform**
-> Smart prompt suggestions, credit system & multi-model support
->
-> `TypeScript` `Multi-Model AI` `SaaS` `Reels & Images`
+---
 
-</td>
-</tr>
-</table>
+### 🎯 [RevSignal AI](https://github.com/mejba13/revsignal-ai) — Predictive Revenue Intelligence
+> Transform CRM data into deal predictions, risk alerts & revenue forecasts · `Next.js 15` `Python ML` `tRPC` `94% accuracy`
+
+### 🛡️ VendorShield AI — Third-Party Risk Management
+> AI-powered vendor risk assessment & compliance monitoring · `React Native` `FastAPI` `ML` `SOC2`
+
+### 🤖 [PromptPal AI](https://github.com/mejba13/promptpal.ai) — AI Content Creation Platform
+> Smart prompt suggestions, credit system & multi-model support · `TypeScript` `Multi-Model AI` `SaaS`
+
+</div>
 
 <br/>
 
@@ -175,12 +140,18 @@ mission: >
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mejba13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejba13&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" />
+  <a href="https://github.com/mejba13">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mejba13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/mejba13">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mejba13&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mejba13&theme=algolia&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
+  <a href="https://github.com/mejba13">
+    <img src="https://streak-stats.demolab.com/?user=mejba13&theme=algolia&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
+  </a>
 </div>
 
 <div align="center">
@@ -243,12 +214,10 @@ mission: >
 
 [![MeetVerse AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=meetverse-ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/meetverse-ai)
 [![BrandFlow AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=brandflow-ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/brandflow-ai)
-[![Tube2Blog AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=tube2blog.ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/tube2blog.ai)
 [![RevSignal AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=revsignal-ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/revsignal-ai)
-[![Rendrix](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=rendrix&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/rendrix)
-[![Vitalyze App](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=vitalyze-app&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/vitalyze-app)
-[![Prompt Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=prompt-marketplace&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/prompt-marketplace)
 [![PromptPal AI](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=promptpal.ai&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/promptpal.ai)
+[![Prompt Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=prompt-marketplace&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/prompt-marketplace)
+[![Vitalyze Web](https://github-readme-stats.vercel.app/api/pin/?username=mejba13&repo=vitalyze-web&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa)](https://github.com/mejba13/vitalyze-web)
 
 </div>
 
@@ -287,25 +256,16 @@ mission: >
 
 <br/>
 
-<!-- PROFILE VIEWS & TROPHY -->
+<!-- PROFILE VIEWS -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mejba13&color=00d4aa&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://github-profile-trophy.vercel.app/?username=mejba13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+![GitHub Followers](https://img.shields.io/github/followers/mejba13?style=for-the-badge&color=00d4aa&labelColor=0d1117&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/mejba13?style=for-the-badge&color=00d4aa&labelColor=0d1117&logo=github&affiliations=OWNER)
 
 </div>
 
 <br/>
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mejba13/mejba13/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mejba13/mejba13/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mejba13/mejba13/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d33,60:00d4aa,100:00b4d8&height=120&section=footer" width="100%" />
