@@ -1,19 +1,26 @@
 <div align="center">
 
-<!-- DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d1117,50:003d33,75:00795c,100:00d4aa&height=230&section=header&text=Engr%20Mejba%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=⚡%20AI%20Developer%20%7C%20Software%20Engineer%20%7C%20Cloud%20DevOps%20%7C%20Entrepreneur%20⚡&descSize=18&descAlignY=54&descAlign=50" width="100%" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,75:0a2a1f,100:00d4aa&height=220&section=header&text=Engr%20Mejba%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<!-- BADGES ROW -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mejba.me-00d4aa?style=for-the-badge&logoColor=white)](https://www.mejba.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-500%2B_Connections-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-mejba-ahmed-795ab3165)
-[![Newsletter](https://img.shields.io/badge/📰_Newsletter-The_AI_Engineer's_Edge-FF6F00?style=for-the-badge)](https://www.linkedin.com/newsletters/)
-[![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/engrmejbaahmed)
+<br/>
 
-</div>
+**`AI Developer`** &nbsp;&nbsp; **`Software Engineer`** &nbsp;&nbsp; **`Cloud DevOps`** &nbsp;&nbsp; **`Entrepreneur`**
+
+<br/>
 
 <!-- TYPING SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+AI-Powered+SaaS+Products+That+Scale+%F0%9F%9A%80;10%2B+Years+%7C+2500%2B+Clients+%7C+1.5K%2B+Projects+%7C+5.0+%E2%AD%90+Rating" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=1500&color=00D4AA&center=true&vCenter=true&repeat=true&width=580&height=40&lines=Building+AI-Powered+SaaS+Products+That+Scale;10%2B+Years+%E2%80%A2+2500%2B+Clients+%E2%80%A2+5.0+%E2%AD%90+Rating" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+<!-- PRIMARY CTAs -->
+[![Portfolio](https://img.shields.io/badge/mejba.me-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mejba.me/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-mejba-ahmed-795ab3165)
+&nbsp;
+[![Newsletter](https://img.shields.io/badge/The_AI_Engineer's_Edge-FF6F00?style=for-the-badge&logo=substack&logoColor=white)](https://www.linkedin.com/newsletters/)
+
 </div>
 
 <br/>
@@ -21,22 +28,21 @@
 <!-- ABOUT ME SECTION -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-```yaml
-name: Engr Mejba Ahmed
-location: Dhaka, Bangladesh
-current_roles:
-  - Founder & CEO @ Ramlit Limited
-  - Deputy Head of Development @ Electronic First FZ LLC (UAE)
-education: B.Sc in Computer Science & Engineering
-experience: 10+ years
-clients_served: 2500+
-projects_delivered: 1500+
-rating: 5.0 ⭐
+<div align="center">
 
-mission: >
-  I architect AI-powered solutions, design scalable cloud systems,
-  and build secure enterprise software that drives business growth.
-```
+**Founder & CEO** @ Ramlit Limited &nbsp;·&nbsp; **Deputy Head of Development** @ Electronic First FZ LLC (UAE)
+
+B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
+
+<br/>
+
+> *I architect AI-powered solutions, design scalable cloud systems, and build secure enterprise software that drives business growth.*
+
+<br/>
+
+`1,500+ Projects` &nbsp; `2,500+ Clients` &nbsp; `10+ Years Experience` &nbsp; `5.0 ⭐ Rating`
+
+</div>
 
 <br/>
 
