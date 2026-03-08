@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,75:0a2a1f,100:00d4aa&height=220&section=header&text=Engr%20Mejba%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,80:0d1117,100:00d4aa&height=220&section=header&text=Engr%20Mejba%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <br/>
 
