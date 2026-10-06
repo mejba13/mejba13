@@ -10,7 +10,7 @@
 <br/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=1500&color=00D4AA&center=true&vCenter=true&repeat=true&width=580&height=40&lines=Building+AI-Powered+SaaS+Products+That+Scale;10%2B+Years+%E2%80%A2+2500%2B+Clients+%E2%80%A2+5.0+%E2%AD%90+Rating" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=1500&color=00D4AA&center=true&vCenter=true&repeat=true&width=580&height=40&lines=AI+Agents+%E2%80%A2+Automation+%E2%80%A2+SaaS;Laravel+%E2%80%A2+Python+%E2%80%A2+Cloud+Engineering" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-mejba-ahmed-795ab3165)
 &nbsp;
-[![Newsletter](https://img.shields.io/badge/The_AI_Engineer's_Edge-FF6F00?style=for-the-badge&logo=substack&logoColor=white)](https://www.linkedin.com/newsletters/)
+[![Discuss a project](https://img.shields.io/badge/Discuss_a_project-00d4aa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mejba.13@gmail.com)
 
 </div>
 
@@ -30,21 +30,35 @@
 
 <div align="center">
 
-**Founder & CEO** @ Ramlit Limited &nbsp;·&nbsp; **Deputy Head of Development** @ Electronic First FZ LLC (UAE)
+**Deputy Head of Software Development** @ ELECTRONICFIRST - FZCO
+
+**Founder & CEO** @ [Ramlit Limited](https://www.ramlit.com/) · [ColorPark Creative Agency](https://www.colorpark.io/) · [xCyberSecurity Global Services](https://www.xcybersecurity.io/)
 
 B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
 
 <br/>
 
-> *I architect AI-powered solutions, design scalable cloud systems, and build secure enterprise software that drives business growth.*
+> I build AI agents, workflow automation, SaaS applications and APIs. My work combines Laravel and Python backends, modern web applications, cloud infrastructure and application security.
 
 <br/>
 
-`1,500+ Projects` &nbsp; `2,500+ Clients` &nbsp; `10+ Years Experience` &nbsp; `5.0 ⭐ Rating`
+**Have a product to build or a workflow to automate?**
+
+[Explore my work](https://www.mejba.me/) · [Discuss your project](mailto:mejba.13@gmail.com)
 
 </div>
 
 <br/>
+
+## How I can help
+
+| Your goal | What I can build or improve |
+| :--- | :--- |
+| Automate repetitive work | AI agents, document retrieval and integrations with your existing tools. |
+| Build a SaaS product | Authentication, billing, role-based access and API integrations. |
+| Connect systems and data | Laravel/Python backends, REST APIs and database workflows. |
+| Improve deployment and operations | AWS infrastructure, Docker, CI/CD and monitoring. |
+| Address application risks | Security reviews, access controls and remediation plans. |
 
 <!-- WHAT I'M BUILDING -->
 ## 🔥 What I'm Building — AI SaaS Portfolio
@@ -54,43 +68,43 @@ B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
 ### 🎥 [MeetVerse AI](https://github.com/mejba13/meetverse-ai) — AI-Powered Video Conferencing
 > Intelligent meeting co-pilot with real-time transcription & smart action items · `Next.js 15` `WebRTC` `TypeScript`
 
-<img src="https://github.com/user-attachments/assets/8277c5f4-3848-4aed-bd2e-ecc2aa0ec36e" width="48%" /> <img src="https://github.com/user-attachments/assets/a2417494-f722-461d-8659-f4cd18164e18" width="48%" />
+<img src="https://github.com/user-attachments/assets/8277c5f4-3848-4aed-bd2e-ecc2aa0ec36e" alt="MeetVerse AI interface" width="48%" /> <img src="https://github.com/user-attachments/assets/a2417494-f722-461d-8659-f4cd18164e18" alt="MeetVerse AI dashboard" width="48%" />
 
 ---
 
-### 📝 [Tube2Blog AI](https://github.com/mejba13/tube2blog.ai) — YouTube → SEO Blog Posts
+### 📝 [Tube2Blog AI](https://www.mejba.me/) — YouTube → SEO Blog Posts
 > Transforms videos into optimized blog posts with auto-scheduling & multi-site management · `Next.js` `Hugging Face` `AI`
 
-<img src="https://github.com/user-attachments/assets/354da342-27d7-4d1b-853a-bd09051ade36" width="48%" /> <img src="https://github.com/user-attachments/assets/fd3d55b5-a75f-4a3e-adcd-19353eb995c0" width="48%" />
+<img src="https://github.com/user-attachments/assets/354da342-27d7-4d1b-853a-bd09051ade36" alt="Tube2Blog interface" width="48%" /> <img src="https://github.com/user-attachments/assets/fd3d55b5-a75f-4a3e-adcd-19353eb995c0" alt="Tube2Blog dashboard" width="48%" />
 
 ---
 
 ### 📢 [BrandFlow AI](https://github.com/mejba13/brandflow-ai) — Social Media Automation
 > AI-generated visuals, platform-optimized posts, intelligent scheduling & lead magnets · `Next.js 15` `TypeScript` `Tailwind CSS 4`
 
-<img src="https://github.com/user-attachments/assets/6949dc33-c634-446b-88e0-1e5be1279d8d" width="48%" /> <img src="https://github.com/user-attachments/assets/ae5a6840-783b-4f4e-acdb-45468236f90b" width="48%" />
+<img src="https://github.com/user-attachments/assets/6949dc33-c634-446b-88e0-1e5be1279d8d" alt="BrandFlow AI interface" width="48%" /> <img src="https://github.com/user-attachments/assets/ae5a6840-783b-4f4e-acdb-45468236f90b" alt="BrandFlow AI dashboard" width="48%" />
 
 ---
 
 ### 🛒 [Rendrix](https://github.com/mejba13/rendrix) — Multi-Tenant E-Commerce Platform
-> Create & manage multiple ecommerce stores from a unified dashboard · `TypeScript` `Turborepo` `Docker` `106 commits`
+> Create & manage multiple ecommerce stores from a unified dashboard · `TypeScript` `Turborepo` `Docker`
 
-<img src="https://github.com/user-attachments/assets/d92275e8-024b-41ef-8fe6-cd1c2e530e32" width="48%" /> <img src="https://github.com/user-attachments/assets/036dbd47-a504-41c0-bfea-959bb83c5b81" width="48%" />
+<img src="https://github.com/user-attachments/assets/d92275e8-024b-41ef-8fe6-cd1c2e530e32" alt="Rendrix storefront" width="48%" /> <img src="https://github.com/user-attachments/assets/036dbd47-a504-41c0-bfea-959bb83c5b81" alt="Rendrix dashboard" width="48%" />
 
 ---
 
-### 💚 [Vitalyze App](https://github.com/mejba13/vitalyze-app) — AI Health Companion
+### 💚 [Vitalyze App](https://www.mejba.me/) — AI Health Companion
 > Track wellness, monitor vitals & get personalized health insights · `Flutter` `Dart` `Supabase` `OpenAI`
 
-<img src="https://github.com/user-attachments/assets/b21ca2d4-3691-4ad8-806f-6116e087201e" width="48%" /> <img src="https://github.com/user-attachments/assets/6eaa2ef6-758d-4f6a-9030-7ca9271d0bb0" width="48%" />
+<img src="https://github.com/user-attachments/assets/b21ca2d4-3691-4ad8-806f-6116e087201e" alt="Vitalyze app interface" width="48%" /> <img src="https://github.com/user-attachments/assets/6eaa2ef6-758d-4f6a-9030-7ca9271d0bb0" alt="Vitalyze app dashboard" width="48%" />
 
 ---
 
 ### 🎯 [RevSignal AI](https://github.com/mejba13/revsignal-ai) — Predictive Revenue Intelligence
-> Transform CRM data into deal predictions, risk alerts & revenue forecasts · `Next.js 15` `Python ML` `tRPC` `94% accuracy`
+> OpenAI-assisted deal scoring, pipeline dashboards and score history · `Next.js` `TypeScript` `tRPC` `PostgreSQL`
 
-### 🛡️ VendorShield AI — Third-Party Risk Management
-> AI-powered vendor risk assessment & compliance monitoring · `React Native` `FastAPI` `ML` `SOC2`
+### 🛡️ [VendorShield API](https://github.com/mejba13/vendorshield-api) — Third-Party Risk Management
+> Vendor assessments, compliance records and weighted risk scoring · `Python` `FastAPI` `PostgreSQL`
 
 ### 🤖 [PromptPal AI](https://github.com/mejba13/promptpal.ai) — AI Content Creation Platform
 > Smart prompt suggestions, credit system & multi-model support · `TypeScript` `Multi-Model AI` `SaaS`
@@ -100,7 +114,7 @@ B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
 <br/>
 
 <!-- TECH STACK -->
-## 🛠️ Technology Arsenal
+## 🛠️ Technical Focus
 
 <div align="center">
 
@@ -174,18 +188,18 @@ B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
 <tr>
 <td align="center" width="33%">
   <img src="https://img.shields.io/badge/Ramlit_Limited-Founder_&_CEO-00d4aa?style=for-the-badge" /><br/><br/>
-  <b>Leading Software Company</b><br/>
-  <sub>2500+ clients • Modern, scalable solutions<br/>Bangladesh's trusted tech partner</sub>
+  <b>Software & AI Development</b><br/>
+  <sub>SaaS • APIs • AI Automation<br/><a href="https://www.ramlit.com/">Explore Ramlit services →</a></sub>
 </td>
 <td align="center" width="33%">
   <img src="https://img.shields.io/badge/ColorPark.io-Creative_Agency-FF6B6B?style=for-the-badge" /><br/><br/>
   <b>Design & Branding Studio</b><br/>
-  <sub>Logo Design • Brand Style Guides<br/>Website Design • Landing Pages</sub>
+  <sub>Logo Design • Brand Style Guides<br/>Website Design • Landing Pages<br/><a href="https://www.colorpark.io/">Explore ColorPark services →</a></sub>
 </td>
 <td align="center" width="33%">
   <img src="https://img.shields.io/badge/xCyberSecurity.io-Global_Services-7B42BC?style=for-the-badge" /><br/><br/>
-  <b>Cybersecurity Powerhouse</b><br/>
-  <sub>Penetration Testing • Vulnerability Assessment<br/>24/7 Managed Security</sub>
+  <b>Cybersecurity Services</b><br/>
+  <sub>Penetration Testing • Vulnerability Assessment<br/><a href="https://www.xcybersecurity.io/">Explore security services →</a></sub>
 </td>
 </tr>
 </table>
@@ -193,23 +207,15 @@ B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
 
 <br/>
 
-<!-- TRACK RECORD -->
-## 🏆 Track Record
+## Engineering work you can inspect
 
-<div align="center">
+Explore public source code, technical documentation and implementation details:
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🚀 1,500+ Projects Delivered    👥 2,500+ Happy Clients       ║
-║   ⭐ 5.0 Average Rating           🕐 24/7 Enterprise Support    ║
-║   📈 99.9% Uptime SLA             🏗️ 10+ Years Experience       ║
-║   🔒 SOC2 Compliant               🌍 Clients Across 30+ Countries║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+- [Session Pulse](https://github.com/mejba13/session-pulse) — TypeScript plugin for Claude Code session usage and estimated cache costs.
+- [InfraWhisper](https://github.com/mejba13/infrawhisper) — Go services, a Python AI engine and a Next.js infrastructure dashboard.
+- [Frontend Verification Gate](https://github.com/mejba13/frontend-verification-gate) — Reusable Claude skill for browser verification of frontend changes.
 
-</div>
+Project deployment status and integration readiness vary. Read each repository's setup and limitations for context.
 
 <br/>
 
@@ -222,7 +228,7 @@ B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
 |---|---|---|---|
 | 🎥 | [**MeetVerse AI**](https://github.com/mejba13/meetverse-ai) | AI-powered video conferencing with real-time transcription | `Next.js 15` `WebRTC` `TypeScript` |
 | 📢 | [**BrandFlow AI**](https://github.com/mejba13/brandflow-ai) | Social media automation with AI-generated visuals | `Next.js 15` `TypeScript` `Tailwind` |
-| 🎯 | [**RevSignal AI**](https://github.com/mejba13/revsignal-ai) | Predictive revenue intelligence — 94% accuracy | `Next.js 15` `Python ML` `tRPC` |
+| 🎯 | [**RevSignal AI**](https://github.com/mejba13/revsignal-ai) | OpenAI-assisted deal scoring and pipeline dashboards | `Next.js` `TypeScript` `tRPC` |
 | 🤖 | [**PromptPal AI**](https://github.com/mejba13/promptpal.ai) | AI content creation with multi-model support | `TypeScript` `Multi-Model AI` |
 | 🛒 | [**Prompt Marketplace**](https://github.com/mejba13/prompt-marketplace) | Laravel 12 SaaS for discovering & purchasing AI prompts | `PHP` `Laravel 12` `SaaS` |
 | 🌐 | [**Vitalyze Web**](https://github.com/mejba13/vitalyze-web) | Premium marketing website with Framer Motion | `Next.js 15` `TypeScript` `Tailwind` |
@@ -231,23 +237,23 @@ B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
 
 <br/>
 
-<!-- NEWSLETTER -->
-## 📰 The AI Engineer's Edge
+## Technical notes & learning resources
 
-<div align="center">
+I share articles, project walkthroughs and reusable resources on AI development, software architecture and cloud deployment.
 
-> **Daily LinkedIn Newsletter** — Practical AI development insights for engineers who build.
->
-> 🔥 **Growing fast** — Join hundreds of AI engineers getting actionable tips on Claude Code, MCP servers, AI-powered SaaS development, and more.
->
-> [**📬 Subscribe Now →**](https://www.linkedin.com/newsletters/)
-
-</div>
+[Explore articles and resources on mejba.me →](https://www.mejba.me/)
 
 <br/>
 
 <!-- CONNECT -->
-## 🤝 Let's Connect
+## 🤝 Work With Me
+
+**Have a product to build, a workflow to automate or a backend to improve?**
+
+Email [mejba.13@gmail.com](mailto:mejba.13@gmail.com) with your goal, current stack and timeline. That gives us a useful starting point for discussing scope and next steps.
+
+Open to client projects, engineering opportunities, partnerships and technical collaboration.
+
 
 <div align="center">
 
@@ -255,7 +261,7 @@ B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-mejba-ahmed-795ab3165)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mejba13)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCfLIuNxRfXT7HmvvB9Ld0SA)
-[![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mejba_92)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/engrmejbaahmed)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/engrmejbaahmed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mejba.13@gmail.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/engrmejbaahmed)
@@ -279,6 +285,6 @@ B.Sc in Computer Science & Engineering &nbsp;·&nbsp; Dhaka, Bangladesh
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d1117,50:003d33,75:00795c,100:00d4aa&height=120&section=footer" width="100%" />
 
 <div align="center">
-  <b>💡 "Building the future, one AI-powered solution at a time."</b><br/><br/>
-  <sub>⚡ Open to collaborations, consulting, and exciting opportunities</sub>
+  <b>Build a product. Automate a workflow. Improve a system.</b><br/><br/>
+  <sub><a href="https://www.mejba.me/">Explore my work</a> · <a href="mailto:mejba.13@gmail.com">Start a conversation</a></sub>
 </div>
